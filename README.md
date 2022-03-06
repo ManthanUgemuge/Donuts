@@ -1,5 +1,5 @@
 # Donuts 🍩
-Donuts in Python and C
+Donuts in C and Python
 
 ## Flavors
 
