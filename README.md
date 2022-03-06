@@ -1,4 +1,4 @@
-# donuts
+# Donuts 🍩
 Donuts in Python and C
 
 ## License
