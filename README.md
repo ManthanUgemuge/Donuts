@@ -8,5 +8,5 @@ Donuts in C and Python
 
 ## License
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
+This project is open-sourced under the [MIT license](). ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
 
