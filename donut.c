@@ -32,7 +32,7 @@ int main() {
                     o=x+80*y,
                     N=8*((sinj*sinA-sini*cosj*cosA)*cosB-sini*cosj*sinA-sinj*cosA-cosi *cosj*sinB);
 
-                // debug
+                // debug it
                 // printf("%d %d %d %d\n",x,y,o,N);
                 if(22>y&&y>0&&x>0&&80>x&&mess>z[o]){
                     z[o]=mess;
