@@ -1,6 +1,8 @@
 # Donuts 🍩
 Donuts in C and Python
 
+## Tech Stacks Used :
+
 ## Flavors
 
 - C
