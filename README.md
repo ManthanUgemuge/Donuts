@@ -15,6 +15,7 @@ Donuts in C and Python
 
 ## Contributing
 
+Pull requests are welcome, feel free to ```fork``` this repo.
 
 ## License
 
