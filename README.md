@@ -19,5 +19,5 @@ Pull requests are welcome, feel free to ```fork``` this repo.
 
 ## License
 
-This project is open-sourced under the [MIT license](). ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
+This project is open-sourced under the ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) .
 
