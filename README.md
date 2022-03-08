@@ -3,7 +3,7 @@ Donuts in C and Python
 
 ## Tech Stacks Used :
 
-
+<a target="_blank" href="https://www.w3schools.in/c-tutorial/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
 
 
