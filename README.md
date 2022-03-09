@@ -10,7 +10,7 @@ Donuts in C and Python.
 ## Flavors
 
 - C [Code](https://github.com/ManthanUgemuge/Donuts/blob/main/donut.c)
-- Python [Code]
+- Python [Code]()
 
 ## How to use Project
 
