@@ -9,8 +9,8 @@ Donuts in C and Python.
 
 ## Flavors
 
-- C
-- Python
+- C Code 
+- Python Code
 
 ## How to use Project
 
