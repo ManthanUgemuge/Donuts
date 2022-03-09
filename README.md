@@ -1,5 +1,5 @@
 # Donuts 🍩
-Donuts in C and Python
+Donuts in C and Python.
 
 ## Tech Stacks Used :
 
