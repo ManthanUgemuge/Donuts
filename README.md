@@ -9,8 +9,8 @@ Donuts in C and Python.
 
 ## Flavors
 
-- C [Code](https://github.com/ManthanUgemuge/Donuts/blob/main/donut.c)
-- Python [Code](https://github.com/ManthanUgemuge/Donuts/blob/main/donut.py)
+1. C [Code](https://github.com/ManthanUgemuge/Donuts/blob/main/donut.c)
+2. Python [Code](https://github.com/ManthanUgemuge/Donuts/blob/main/donut.py)
 
 ## How to use Project
 
