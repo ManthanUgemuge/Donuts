@@ -18,7 +18,7 @@ Donuts in C and Python.
 ```
 https://github.com/ManthanUgemuge/Donuts.git
 ```
-Download
+[Download](https://github.com/ManthanUgemuge/Donuts/archive/refs/heads/main.zip)
 
 ## Contributing
 
