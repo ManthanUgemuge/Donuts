@@ -16,7 +16,7 @@ Donuts in C and Python.
 
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/Donuts.git
+https://github.com/manthanugemuge/donuts.git
 ```
 [Download](https://github.com/ManthanUgemuge/Donuts/archive/refs/heads/main.zip)
 
